@@ -1,0 +1,5 @@
+C:\GIT\testaweapi\testapi\testapi\bin\Debug\netcoreapp1.1\testapi.deps.json
+C:\GIT\testaweapi\testapi\testapi\bin\Debug\netcoreapp1.1\testapi.runtimeconfig.json
+C:\GIT\testaweapi\testapi\testapi\bin\Debug\netcoreapp1.1\testapi.runtimeconfig.dev.json
+C:\GIT\testaweapi\testapi\testapi\obj\Debug\netcoreapp1.1\testapi.csprojResolveAssemblyReference.cache
+C:\GIT\testaweapi\testapi\testapi\obj\Debug\netcoreapp1.1\testapi.AssemblyInfo.cs

@@ -9701,10 +9701,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GIT\\testwebapi\\testapi\\testapi\\testapi.csproj",
+      "projectUniqueName": "C:\\GIT\\testaweapi\\testapi\\testapi\\testapi.csproj",
       "projectName": "testapi",
-      "projectPath": "C:\\GIT\\testwebapi\\testapi\\testapi\\testapi.csproj",
-      "outputPath": "C:\\GIT\\testwebapi\\testapi\\testapi\\obj\\",
+      "projectPath": "C:\\GIT\\testaweapi\\testapi\\testapi\\testapi.csproj",
+      "outputPath": "C:\\GIT\\testaweapi\\testapi\\testapi\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
