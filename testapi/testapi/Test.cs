@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace testapi
 {
-    public class TestClass
+    public class Test
     {
         //add this for testing dev branch
     }
