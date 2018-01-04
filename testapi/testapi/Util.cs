@@ -8,5 +8,8 @@ namespace testapi
     public class Util
     {
         //add this for testing dev branch
+        public Util()
+        { }
+
     }
 }
