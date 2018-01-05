@@ -10,6 +10,10 @@ namespace testapi
         //add this for testing dev branch
         public Util()
         { }
+        public int GetValue()
+        {
+            return 1;
+        }
 
     }
 }
